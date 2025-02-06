@@ -1,17 +1,27 @@
-# Java Programs Repository
+# Java Programs Repository 🚀
 
-## 📌 List of Programs
-
-1️⃣ **Sum 1 to N Divisors** - Computes the sum of divisors for all numbers from `1` to `N`.  
-2️⃣ **Armstrong Number** - Checks whether a given number is an Armstrong number.  
-3️⃣ **Count Digits** - Counts the number of digits in an integer.  
-4️⃣ **Factorial** - Computes the factorial of a given number.  
-5️⃣ **Palindrome Number** - Checks if a given number is a palindrome.  
-6️⃣ **Perform Operations** - Executes various mathematical operations on numbers.  
-7️⃣ **Reverse Integer** - Reverses the digits of an integer.  
-8️⃣ **Reverse Digits** - Another approach to reversing digits of a number.  
-9️⃣ **Sum of Digits** - Calculates the sum of all digits in a number.  
+This repository contains a collection of **Java programs**, each with its respective **question link** and **solution link**.
 
 ---
 
+## 📖 List of Java Programs
 
+| Problem | Question Link | Solution Link |
+|---------|--------------|--------------|
+| Sum 1 to N Divisors | ❓ [Question](#) | 💡 [Solution](Sum1toNDivisors.java) |
+| Armstrong Number | ❓ [Question](#) | 💡 [Solution](AmstrongNumber.java) |
+| Count Digits | ❓ [Question](#) | 💡 [Solution](count_digits.java) |
+| Factorial | ❓ [Question](#) | 💡 [Solution](Factorial.java) |
+| Palindrome Number | ❓ [Question](#) | 💡 [Solution](palindrome.java) |
+| Perform Operations | ❓ [Question](#) | 💡 [Solution](PerformOperations.java) |
+| Reverse Integer | ❓ [Question](#) | 💡 [Solution](ReverseInteger.java) |
+| Reverse Digits | ❓ [Question](#) | 💡 [Solution](ReverseDigits.java) |
+| Sum of Digits | ❓ [Question](#) | 💡 [Solution](SumOfDigits.java) |
+
+---
+
+## 🛠 **How to Use**
+1. Click on the **Question Link** to view the problem statement.
+2. Click on the **Solution Link** to see the Java solution.
+
+🚀 **More programs will be added soon! Stay tuned.**  
