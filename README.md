@@ -17,7 +17,8 @@ This repository contains a collection of **Java programs**, each with its respec
 | Reverse Integer | ❓ [Question](#) | 💡 [Solution](ReverseInteger.java) |
 | Reverse Digits | ❓ [Question](#) | 💡 [Solution](ReverseDigits.java) |
 | Sum of Digits | ❓ [Question](#) | 💡 [Solution](SumOfDigits.java) |
-
+| Sum of Digits | ❓ [Question](#) | 💡 [Solution](SumOfDigits.java) |
+| Prime Number | ❓ [Question](https://www.geeksforgeeks.org/problems/prime-number2314/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | 💡 [Solution](SumOfDigits.java) |
 ---
 
 ## 🛠 **How to Use**
