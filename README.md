@@ -10,7 +10,7 @@ This repository contains a collection of **Java programs**, each with its respec
 
 ## 🔹 Problem List  
 
-| 🔢 Problem No. | 📌 Name                     | 📖 Description                                  | 🏅 Badge |
+| 🔢 Problem No. | Name                     | 📖 Description                                  | Topic |
 |---------------|--------------------------|----------------------------------------------|---------|
 | 1             | **Armstrong Number**      | Check if a number is an Armstrong number    | ![Math](https://img.shields.io/badge/Math-%23FF5733.svg?style=flat) |
 | 2             | **Count Digits**          | Count the number of digits in a number      | ![Basic Math](https://img.shields.io/badge/Basic%20Math-%234CAF50.svg?style=flat) |
