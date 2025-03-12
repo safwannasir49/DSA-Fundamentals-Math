@@ -10,19 +10,19 @@ This repository contains a collection of **Java programs**, each with its respec
 
 ## 🔹 Problem List  
 
-| Problem No. | Name                     | Description                                      | Approach             |
-|------------|--------------------------|------------------------------------------------|----------------------|
-| 1          | Armstrong Number         | Check if a number is an Armstrong number       | Digit extraction & power calculations |
-| 2          | Count Digits              | Count the number of digits in a number         | Iterative / Log-based approach |
-| 3          | Factorial                 | Compute the factorial of a number              | Recursion & Iteration |
-| 4          | LCM And GCD               | Find LCM and GCD of two numbers                | Euclidean Algorithm |
-| 5          | Palindrome Number         | Check if a number is a palindrome              | Reverse & Compare approach |
-| 6          | Prime Number              | Check if a number is prime                     | Trial division method |
-| 7          | Reverse Integer           | Reverse the digits of an integer               | Mathematical digit extraction |
-| 8          | Reverse Digits            | Reverse digits of a number using recursion     | Recursive approach |
-| 9          | Sum 1 to N Divisors       | Sum all divisors of numbers from 1 to N       | Iterative brute force |
-| 10         | Sum of Digits             | Compute the sum of digits of a number         | Recursion / Iteration |
-| 11         | Perform Operations        | Perform custom operations on numbers          | Depends on problem constraints |
+| 🔢 Problem No. | 📌 Name                     | 📖 Description                                  | 🏅 Badge |
+|---------------|--------------------------|----------------------------------------------|---------|
+| 1             | **Armstrong Number**      | Check if a number is an Armstrong number    | ![Math](https://img.shields.io/badge/Math-%23FF5733.svg?style=flat) |
+| 2             | **Count Digits**          | Count the number of digits in a number      | ![Basic Math](https://img.shields.io/badge/Basic%20Math-%234CAF50.svg?style=flat) |
+| 3             | **Factorial**             | Compute the factorial of a number          | ![Recursion](https://img.shields.io/badge/Recursion-%232E86C1.svg?style=flat) |
+| 4             | **LCM And GCD**           | Find LCM and GCD of two numbers            | ![Number Theory](https://img.shields.io/badge/Number%20Theory-%23F39C12.svg?style=flat) |
+| 5             | **Palindrome Number**     | Check if a number is a palindrome          | ![String Manipulation](https://img.shields.io/badge/String%20Manipulation-%23E74C3C.svg?style=flat) |
+| 6             | **Prime Number**          | Check if a number is prime                 | ![Mathematics](https://img.shields.io/badge/Mathematics-%23A569BD.svg?style=flat) |
+| 7             | **Reverse Integer**       | Reverse the digits of an integer           | ![Number Theory](https://img.shields.io/badge/Number%20Theory-%23D35400.svg?style=flat) |
+| 8             | **Reverse Digits**        | Reverse digits of a number using recursion | ![Recursion](https://img.shields.io/badge/Recursion-%232E86C1.svg?style=flat) |
+| 9             | **Sum 1 to N Divisors**   | Sum all divisors of numbers from 1 to N    | ![Math](https://img.shields.io/badge/Math-%23FF5733.svg?style=flat) |
+| 10            | **Sum of Digits**         | Compute the sum of digits of a number      | ![Basic Math](https://img.shields.io/badge/Basic%20Math-%234CAF50.svg?style=flat) |
+| 11            | **Perform Operations**    | Perform custom operations on numbers       | ![Operations](https://img.shields.io/badge/Operations-%23F1C40F.svg?style=flat) |
 
 <br>
 <hr/>
