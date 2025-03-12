@@ -10,19 +10,19 @@ This repository contains a collection of **Java programs**, each with its respec
 
 ## 🔹 Problem List  
 
-| No. | Problem Name | Solution Code (Link) |
-|----|---------------------------------|------------------------------------------------|
-| 1  | Armstrong Number | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/AmstrongNumber.java) |
-| 2  | Count Digits | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/count%20digits.java) |
-| 3  | Factorial | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Factorial.java) |
-| 4  | LCM and GCD | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/LCM%20And%20GCD.java) |
-| 5  | Palindrome Number | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/palindrome.java) |
-| 6  | Prime Number | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Primenumber.java) |
-| 7  | Reverse Integer | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/ReverseInteger.java) |
-| 8  | Reverse Digits | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Reverse%20digits.java) |
-| 9  | Sum 1 to N Divisors | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%201%20to%20N%20Divisors.java) |
-| 10 | Sum of Digits | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20Digits.java) |
-| 11 | Perform Operations | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20Digits.java) |
+| Problem No. | Name                     | Description                                      | Approach             |
+|------------|--------------------------|------------------------------------------------|----------------------|
+| 1          | Armstrong Number         | Check if a number is an Armstrong number       | Digit extraction & power calculations |
+| 2          | Count Digits              | Count the number of digits in a number         | Iterative / Log-based approach |
+| 3          | Factorial                 | Compute the factorial of a number              | Recursion & Iteration |
+| 4          | LCM And GCD               | Find LCM and GCD of two numbers                | Euclidean Algorithm |
+| 5          | Palindrome Number         | Check if a number is a palindrome              | Reverse & Compare approach |
+| 6          | Prime Number              | Check if a number is prime                     | Trial division method |
+| 7          | Reverse Integer           | Reverse the digits of an integer               | Mathematical digit extraction |
+| 8          | Reverse Digits            | Reverse digits of a number using recursion     | Recursive approach |
+| 9          | Sum 1 to N Divisors       | Sum all divisors of numbers from 1 to N       | Iterative brute force |
+| 10         | Sum of Digits             | Compute the sum of digits of a number         | Recursion / Iteration |
+| 11         | Perform Operations        | Perform custom operations on numbers          | Depends on problem constraints |
 
 <br>
 <hr/>
