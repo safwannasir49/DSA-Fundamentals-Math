@@ -8,7 +8,7 @@ This repository contains a collection of **Java programs**, each with its respec
 
 ## 📖 List of Java Programs
 
-|## 🔹 Problem List  
+## 🔹 Problem List  
 
 | Problem No. | Name | Solution Code (Link) |
 |------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
