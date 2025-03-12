@@ -8,19 +8,19 @@ This repository contains a collection of **Java programs**, each with its respec
 
 ## 📖 List of Java Programs
 
-| Problem | Question Link | Solution Link |
-|---------|--------------|--------------|
-| Sum 1 to N Divisors | ❓ [Question](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Sum%201%20to%20N%20Divisors/Sum%201%20to%20N%20Divisors.java)|
-| Armstrong Number | ❓ [Question](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Amonstrong%20Number/AmstrongNumber.java) |
-| Count Digits | ❓ [Question](https://www.geeksforgeeks.org/problems/count-digits5716/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Count%20Digits/count%20digits.java) |
-| Factorial | ❓ [Question](https://www.geeksforgeeks.org/problems/factorial5739/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Factorial/Factorial.java) |
-| Palindrome Number | ❓ [Question](https://www.geeksforgeeks.org/problems/palindrome0746/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Palindrome%20Number/palindrome.java) |
-| Perform Operations | ❓ [Question](#) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Perform%20Operations/Perform%20Basic%20Operations) |
-| Reverse Integer | ❓ [Question](https://leetcode.com/problems/reverse-integer/description/) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Reverse%20Integer/ReverseInteger.java) |
-| Reverse Digits | ❓ [Question](https://www.geeksforgeeks.org/problems/reverse-digit0316/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Reverse%20digits/Reverse%20digits.java) |
-| Sum of Digits | ❓ [Question](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Sum%20of%20Digits/Sum%20of%20Digits.java) |
-| Prime Number | ❓ [Question](https://www.geeksforgeeks.org/problems/prime-number2314/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | 💡 [Solution](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/Prime%20Number/Primenumber.java) |
-| LCM & GCD | ❓ [Question](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | 💡 [Solution]([SumOfDigits.java](https://github.com/safwannasir49/DSA-Fundamentals-ControlFlow-Math/blob/main/LCM%20And%20GCD/LCM%20And%20GCD.java)) |
+|## 🔹 Problem List  
+
+| Problem No. | Name | Solution Code (Link) |
+|------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1 | Understand recursion by printing something N times | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Understand%20recursion%20by%20print%20something%20N%20times/Understand%20recursion%20by%20print%20something%20N%20times.java) |
+| 2 | Print name N times using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/tree/main/Print%20name%20N%20times%20using%20recursion) |
+| 3 | Print numbers from 1 to N using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Print%20numbers%20from%201%20to%20N%20using%20recursion%20Without%20Loops/Print%20numbers%20from%201%20to%20N%20Without%20loops.java) |
+| 4 | Print numbers from N to 1 using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Print%20numbers%20from%20N%20to%201%20using%20recursion/Print%20No's%20from%20N%20to%201%20Without%20Loops.java) |
+| 5 | Sum of first N numbers using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20first%20N%20numbers%20using%20recursion/Sum%20of%20first%20N%20numbers%20using%20recursion.java) |
+| 6 | Factorial of a number using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Factorials%20Less%20than%20or%20Equal%20to%20n/Factorials%20Less%20than%20or%20Equal%20to%20n.java) |
+| 7 | Reverse an array using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Reverse%20an%20Array%20Using%20Recursion/Reverse%20an%20Array.java) |
+| 8 | Check if a string is a palindrome using recursion | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Check%20if%20a%20string%20is%20a%20palindrome%20using%20recursion/Check%20if%20a%20string%20is%20a%20palindrome%20using%20recursion.java) |
+| 9 | Fibonacci Number | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Fibonacci%20Number%20/Fibonacci%20Number.java) |
 
 <br>
 <hr/>
