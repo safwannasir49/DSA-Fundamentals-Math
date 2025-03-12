@@ -14,12 +14,12 @@ This repository contains a collection of **Java programs**, each with its respec
 |---------------|--------------------------|----------------------------------------------|---------|
 | 1             | **Armstrong Number**      | Check if a number is an Armstrong number    | <p align="center"><img src="https://img.shields.io/badge/Math-%23FF5733.svg?style=flat" /></p> |
 | 2             | **Count Digits**          | Count the number of digits in an integer    | <p align="center"><img src="https://img.shields.io/badge/Math-%23FFC300.svg?style=flat" /></p> |
-| 3             | **Factorial**             | Compute the factorial of a number           | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23DAF7A6.svg?style=flat" /></p> |
+| 3             | **Factorial**             | Compute the factorial of a number           | <p align="center"><img src="https://img.shields.io/badge/Math-%23DAF7A6.svg?style=flat" /></p> |
 | 4             | **LCM And GCD**           | Find the LCM and GCD of two numbers         | <p align="center"><img src="https://img.shields.io/badge/Math-%23900C3F.svg?style=flat" /></p> |
-| 5             | **Palindrome Number**     | Check if a number is a palindrome           | <p align="center"><img src="https://img.shields.io/badge/String-%236C757D.svg?style=flat" /></p> |
+| 5             | **Palindrome Number**     | Check if a number is a palindrome           | <p align="center"><img src="https://img.shields.io/badge/Math-%236C757D.svg?style=flat" /></p> |
 | 6             | **Prime Number**          | Check if a number is prime                  | <p align="center"><img src="https://img.shields.io/badge/Math-%23C70039.svg?style=flat" /></p> |
-| 7             | **Reverse Integer**       | Reverse the digits of an integer            | <p align="center"><img src="https://img.shields.io/badge/String-%238C92AC.svg?style=flat" /></p> |
-| 8             | **Sum of Digits**         | Compute the sum of digits of a number       | <p align="center"><img src="https://img.shields.io/badge/Recursion-%23FF5733.svg?style=flat" /></p> |
+| 7             | **Reverse Integer**       | Reverse the digits of an integer            | <p align="center"><img src="https://img.shields.io/badge/Math-%238C92AC.svg?style=flat" /></p> |
+| 8             | **Sum of Digits**         | Compute the sum of digits of a number       | <p align="center"><img src="https://img.shields.io/badge/Math-%23FF5733.svg?style=flat" /></p> |
 | 9             | **Sum 1 to N Divisors**   | Sum of all divisors of a number from 1 to N | <p align="center"><img src="https://img.shields.io/badge/Math-%23FFBD69.svg?style=flat" /></p> |
 
 <br>
