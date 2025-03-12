@@ -22,6 +22,7 @@ This repository contains a collection of **Java programs**, each with its respec
 | 8  | Reverse Digits | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Reverse%20digits.java) |
 | 9  | Sum 1 to N Divisors | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%201%20to%20N%20Divisors.java) |
 | 10 | Sum of Digits | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20Digits.java) |
+| 11 | Perform Operations | [Solution](https://github.com/safwannasir49/DSA-Fundamentals-Recursion/blob/main/Sum%20of%20Digits.java) |
 
 <br>
 <hr/>
